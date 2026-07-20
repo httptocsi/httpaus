@@ -44,18 +44,18 @@
   - MySQL database  
   - Responsive design  
 
-👉 https://github.com/httpaus/seva-mitr  
+👉 https://github.com/httptocsi/seva-mitr  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=httpaus&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=httptocsi&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpaus&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httptocsi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=httpaus&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=httptocsi&theme=tokyonight" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/httpaus/httpaus/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/httptocsi/httpaus/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
